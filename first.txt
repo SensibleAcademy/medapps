@@ -1,3 +1,7 @@
 this is first line.
 this is second.
+<<<<<<< HEAD
 this is dev line.
+=======
+this is sensible line.
+>>>>>>> 5253cda3e3b05ea9ba1d860ecdba62736aa95d05
